@@ -1,4 +1,4 @@
 Readme
 ================
-Test HTML-pagina die ik ga gebruiken om een NIGX-webserver die ik in een container draai.
+Test HTML-pagina die ik ga gebruiken om een NIGX-webserver te testen die ik in een docker container draai.
  
